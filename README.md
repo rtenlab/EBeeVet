@@ -1,5 +1,8 @@
 # EBeeVet
+
+#Citation
 If you use the dataset, please use the following BibTeX to cite our paper. 
+
 @inbook{EBV2024,
 author = {Mst. Shamima Hossain and Christos Faloutsos and Boris Baer and Hyoseung Kim and Vassilis J. Tsotras},
 title = {EBV: Electronic Bee-Veterinarian for Principled Mining and Forecasting of Honeybee Time Series},
