@@ -1,6 +1,7 @@
 # EBeeVet
 
-#Citation
+# Citation
+
 If you use the dataset, please use the following BibTeX to cite our paper. 
 
 @inbook{EBV2024,
